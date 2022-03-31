@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="989746e0-0777-401b-804a-2583e61d9d88" />
+  </component>
+  <component name="ProjectId" id="26jSahmEd2ORPo1gaclCk49ExA8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../admin5" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="" />
+      <created>1647935567559</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647935567559</updated>
+      <workItem from="1647935568607" duration="916000" />
+      <workItem from="1648095931920" duration="16000" />
+      <workItem from="1648097166223" duration="2550000" />
+      <workItem from="1648370271571" duration="596000" />
+      <workItem from="1648667952306" duration="748000" />
+      <workItem from="1648668718680" duration="357000" />
+      <workItem from="1648669099819" duration="378000" />
+      <workItem from="1648713608100" duration="490000" />
+      <workItem from="1648748424549" duration="596000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="891" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648668765522">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="891" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648668765522" />
+    <state x="935" y="192" key="CommitChangelistDialog2" timestamp="1648669437458">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="935" y="192" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648669437458" />
+    <state x="1124" y="262" key="FileChooserDialogImpl" timestamp="1648713807837">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1124" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648713807837" />
+    <state x="1253" y="576" key="NewPhpFileDialog" timestamp="1648100003050">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648100003050" />
+    <state x="859" y="121" width="998" height="910" key="SettingsEditor" timestamp="1648668705131">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="859" y="121" width="998" height="910" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648668705131" />
+    <state x="1166" y="360" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1648669357161">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1166" y="360" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648669357161" />
+  </component>
+</project>
