@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/model/department.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/department_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/department_controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emp_create.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/this_will_help.txt" beforeDir="false" afterPath="$PROJECT_DIR$/this_will_help.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,12 +26,15 @@
     <option name="defaultAccountId" value="989746e0-0777-401b-804a-2583e61d9d88" />
   </component>
   <component name="ProjectId" id="26jSahmEd2ORPo1gaclCk49ExA8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../admin5" />
@@ -54,37 +60,58 @@
       <workItem from="1648713608100" duration="490000" />
       <workItem from="1648748424549" duration="2314000" />
       <workItem from="1648827104061" duration="2047000" />
-      <workItem from="1649187089490" duration="633000" />
+      <workItem from="1649187089490" duration="3777000" />
     </task>
+    <task id="LOCAL-00001" summary="thisone">
+      <created>1649187796934</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649187796934</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="thisone" />
+    <option name="LAST_COMMIT_MESSAGE" value="thisone" />
   </component>
   <component name="WindowStateProjectService">
     <state x="891" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648668765522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="891" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648668765522" />
-    <state x="935" y="192" key="CommitChangelistDialog2" timestamp="1648669437458">
+    <state x="935" y="174" key="CommitChangelistDialog2" timestamp="1649187796591">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="935" y="192" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1648669437458" />
+    <state x="935" y="174" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1649187796591" />
     <state x="1124" y="262" key="FileChooserDialogImpl" timestamp="1648713807837">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648713807837" />
-    <state x="1253" y="576" key="NewPhpFileDialog" timestamp="1648100003050">
+    <state x="1253" y="576" key="NewPhpFileDialog" timestamp="1649187890952">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648100003050" />
+    <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649187890952" />
     <state x="859" y="121" width="998" height="910" key="SettingsEditor" timestamp="1648750323615">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="859" y="121" width="998" height="910" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648750323615" />
+    <state x="953" y="320" key="Vcs.Push.Dialog.v2" timestamp="1649187835018">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="953" y="320" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649187835018" />
     <state x="1166" y="360" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog" timestamp="1648669357161">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1166" y="360" key="com.intellij.openapi.vcs.changes.SpecificFilesViewDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1648669357161" />
+    <state x="1043" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1649190000270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1043" y="486" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1649190000270" />
   </component>
 </project>

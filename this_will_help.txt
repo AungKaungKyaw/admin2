@@ -1,4 +1,4 @@
-Name Nrc Position Department Phone Email Address
-name nrc position dept phone email address
-$name $nrc $position $department $phone $email $address
-$name,$nrc,$position,$department,$phone,$email,$address
+Name Nrc Position Department Email Phone Address
+name-nrc-position-dept-email-phone-address-
+$name $nrc $position $department $email $phone $address
+$name,$nrc,$position,$department,$email,$phone,$address
