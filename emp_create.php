@@ -24,32 +24,39 @@ $results=$emp_controller->get_employee();
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="nrc" placeholder="Enter name" class="form-control">
+                <input type="text" name="nrc" placeholder="Enter Nrc " class="form-control">
 
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="position" placeholder="Enter name" class="form-control">
+                <input type="text" name="position" placeholder="Enter Position" class="form-control">
 
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="dept" placeholder="Enter name" class="form-control">
+                <select class="form-control">
+                    <option></option>
+                </select>
 
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="email" placeholder="Enter name" class="form-control">
+                <input type="text" name="email" placeholder="Enter Email " class="form-control">
 
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="phone" placeholder="Enter name" class="form-control">
+                <input type="text" name="phone" placeholder="Enter Phone " class="form-control">
 
             </div>
             <div class="col-lg-12">
                 <label></label>
-                <input type="text" name="address" placeholder="Enter name" class="form-control">
+                <input type="text" name="address" placeholder="Enter Address" class="form-control">
+
+            </div>
+            <div class="col-lg-12">
+                <br>
+                <button type="submit" class="btn btn btn-primary">Add</button>
 
             </div>
         </div>
