@@ -1,5 +1,8 @@
 <?php
 include_once "controller/emp_controller.php";
+
+session_start();
+
 $emp_controller = new emp_controller();
 $results=$emp_controller->get_employee();
 ?>
@@ -18,6 +21,12 @@ $results=$emp_controller->get_employee();
         </div>
         <div class="row">
             <div class="col-lg-12">
+
+                <?php
+                if(isset($_SESSION['message'])){
+                    echo "<span class='text-primary'>".$_SESSION['message']."</span>";
+                }
+                ?>
                 <table class="table table-striped">
                     <?php
 
@@ -47,6 +56,11 @@ $results=$emp_controller->get_employee();
     </div>
     <!-- /.container-fluid -->
     </div>
+<?php
+if(isset($_SESSION['message'])){
+    session_destroy();
+}
+?>
     <!-- End of Main Content -->
 
 <?php include_once "mastery_layout/footer.php"; ?>

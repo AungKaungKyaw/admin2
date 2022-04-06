@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/model/department.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/department_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/department_controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controller/emp_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/emp_controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emp_create.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_create.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/this_will_help.txt" beforeDir="false" afterPath="$PROJECT_DIR$/this_will_help.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/employee.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +39,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../admin5" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -60,7 +60,10 @@
       <workItem from="1648713608100" duration="490000" />
       <workItem from="1648748424549" duration="2314000" />
       <workItem from="1648827104061" duration="2047000" />
-      <workItem from="1649187089490" duration="3777000" />
+      <workItem from="1649187089490" duration="3943000" />
+      <workItem from="1649264752654" duration="82000" />
+      <workItem from="1649264973821" duration="85000" />
+      <workItem from="1649265074301" duration="4539000" />
     </task>
     <task id="LOCAL-00001" summary="thisone">
       <created>1649187796934</created>
@@ -81,6 +84,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="thisone" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1237" y="475" key="#Custom_Plugin_Repositories" timestamp="1649265038651">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1237" y="475" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1649265038651" />
     <state x="891" y="236" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1648668765522">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -97,10 +104,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649187890952" />
-    <state x="859" y="121" width="998" height="910" key="SettingsEditor" timestamp="1648750323615">
+    <state x="859" y="121" width="998" height="910" key="SettingsEditor" timestamp="1649265052606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="859" y="121" width="998" height="910" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1648750323615" />
+    <state x="859" y="121" width="998" height="910" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1649265052606" />
     <state x="953" y="320" key="Vcs.Push.Dialog.v2" timestamp="1649187835018">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

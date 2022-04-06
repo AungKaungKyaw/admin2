@@ -5,7 +5,7 @@ class employee{
     public function get_emp_info(){
         $this->pdo = Database::connect();
         if($this->pdo!=null){
-            echo "success connection";
+            echo "success connectionfff";
             $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 //            $sql = "select * from employee";
             $sql = "SELECT employee.*, department.name as dept_name FROM employee INNER JOIN department
@@ -14,6 +14,31 @@ class employee{
             $statement -> execute();
             $results = $statement -> fetchAll(PDO::FETCH_ASSOC);
             return $results;
+        }
+    }
+    public function add_emp($name,$nrc,$position,$dept,$email,$phone,$address){
+        $this->pdo = Database::connect();
+        if($this->pdo!=null){
+            echo "success connectionasdf";
+            $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+//            $sql = "select * from employee";
+            $sql = "insert into employee(name,nrc,position,dept,email,phone,address) values(:name,:nrc,:pos,:dept,:email,:phone,:addr)";
+            $statement = $this->pdo->prepare($sql);
+            $statement->bindParam(":name",$name);
+            $statement->bindParam(":nrc",$nrc);
+            $statement->bindParam(":pos",$position);
+            $statement->bindParam(":dept",$dept);
+            $statement->bindParam(":email",$email);
+            $statement->bindParam(":phone",$phone);
+            $statement->bindParam(":addr",$address);
+            echo "hello";
+            if($statement->execute()){
+                echo "hello";
+                return true;
+            }
+            else {
+                return false;
+            }
         }
     }
 }
