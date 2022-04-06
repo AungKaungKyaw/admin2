@@ -40,7 +40,7 @@ $results=$emp_controller->get_employee();
                         echo "<td>".$result['phone']."</td>";
                         echo "<td>".$result['address']."</td>";
                         echo "<td>".
-                            "<a class='btn btn-primary'>View</a>".
+                            "<a class='btn btn-primary' href='emp_view.php?id=".$result['id']."'>View</a>".
                             "<a class='btn btn-warning'>View</a>".
                             "<a class='btn btn-danger'>View</a>"
                             ."</td>";
