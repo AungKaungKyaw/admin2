@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/emp_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/emp_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/model/employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/employee.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/emp_edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_edit.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +61,8 @@
       <workItem from="1649264752654" duration="82000" />
       <workItem from="1649264973821" duration="85000" />
       <workItem from="1649265074301" duration="5639000" />
-      <workItem from="1649349535637" duration="2407000" />
+      <workItem from="1649349535637" duration="2498000" />
+      <workItem from="1649352087012" duration="328000" />
     </task>
     <task id="LOCAL-00001" summary="thisone">
       <created>1649187796934</created>

@@ -11,7 +11,7 @@ $emp_result=$emp_controller->get_employee_single($id);
 session_start();
 
 $dept_control = new department_controller();
-$results = $dept_control->get_dept();
+$dept_results = $dept_control->get_dept();
 
 if(isset($_POST['submit'])) {
     $error =false;
@@ -122,8 +122,8 @@ if(isset($_POST['submit'])) {
                             <option selected>Select Department Name</option>
                             <?php
 
-                            foreach($results as $result){
-                                if(isset($dept) && $dept == $result['id']){
+                            foreach($dept_results as $result){
+                                if($dept){
                                     echo "<option selected value='".$result['id']."'>".$result['name']."</option>";
                                 }
                                 else{
