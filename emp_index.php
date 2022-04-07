@@ -26,6 +26,7 @@ $results=$emp_controller->get_employee();
                 if(isset($_SESSION['message'])){
                     echo "<span class='text-primary'>".$_SESSION['message']."</span>";
                 }
+                unset($_SESSION['message']);
                 ?>
                 <table class="table table-striped">
                     <?php
@@ -41,7 +42,7 @@ $results=$emp_controller->get_employee();
                         echo "<td>".$result['address']."</td>";
                         echo "<td>".
                             "<a class='btn btn-primary' href='emp_view.php?id=".$result['id']."'>View</a>".
-                            "<a class='btn btn-warning'>View</a>".
+                            "<a class='btn btn-warning' href='emp_edit.php?id=".$result['id']."'>View</a>".
                             "<a class='btn btn-danger'>View</a>"
                             ."</td>";
                         echo "</tr>";
@@ -57,10 +58,10 @@ $results=$emp_controller->get_employee();
     <!-- /.container-fluid -->
     </div>
 <?php
-if(isset($_SESSION['message'])){
-    session_destroy();
-}
-?>
+//if(isset($_SESSION['message'])){
+//    session_destroy();
+//}
+//?>
     <!-- End of Main Content -->
 
 <?php include_once "mastery_layout/footer.php"; ?>

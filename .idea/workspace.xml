@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a84b3c5b-8c9e-4fcb-9b60-e68b5cb9a0ca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/emp_view.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emp_edit.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/controller/emp_controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/controller/emp_controller.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/emp_index.php" beforeDir="false" afterPath="$PROJECT_DIR$/emp_index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/model/employee.php" beforeDir="false" afterPath="$PROJECT_DIR$/model/employee.php" afterDir="false" />
     </list>
@@ -63,7 +62,8 @@
       <workItem from="1649187089490" duration="3943000" />
       <workItem from="1649264752654" duration="82000" />
       <workItem from="1649264973821" duration="85000" />
-      <workItem from="1649265074301" duration="5604000" />
+      <workItem from="1649265074301" duration="5639000" />
+      <workItem from="1649349535637" duration="2407000" />
     </task>
     <task id="LOCAL-00001" summary="thisone">
       <created>1649187796934</created>
@@ -100,10 +100,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1124" y="262" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1648713807837" />
-    <state x="1253" y="576" key="NewPhpFileDialog" timestamp="1649269955060">
+    <state x="1253" y="576" key="NewPhpFileDialog" timestamp="1649350390855">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649269955060" />
+    <state x="1253" y="576" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1649350390855" />
     <state x="859" y="121" width="998" height="910" key="SettingsEditor" timestamp="1649265052606">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

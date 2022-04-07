@@ -47,7 +47,7 @@ class employee{
             echo "success connectionfff";
             $this->pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 //            $sql = "select * from employee";
-            $sql = "SELECT employee.*, department.name as dept_name FROM employee INNER JOIN department
+            $sql = "SELECT employee.*, department.name as dept_name department.id as dept_id FROM employee INNER JOIN department
                     on employee.dept=department.id and employee.id=:id";
             $statement = $this->pdo->prepare($sql);
             $statement->bindParam(":id",$id);
